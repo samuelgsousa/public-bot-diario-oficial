@@ -20,7 +20,7 @@ Uma aplicação que realiza pesquisas judiciais no DJE e TJSP, extrai dados rele
 
 Clone este repositório:
 
-`git clone #`
+`git clone https://github.com/samuelgsousa/public-bot-diario-oficial`
 
 Crie um ambiente virtual e instale as dependências:
 
