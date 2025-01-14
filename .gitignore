@@ -1,0 +1,13 @@
+data/
+
+temp_indv_TJSP/
+
+processos/
+
+.venv/
+
+__pycache__/
+
+processos/
+
+temp.pdf

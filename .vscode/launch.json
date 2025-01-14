@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Depuração Streamlit",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+            "args": [
+                "-m", "streamlit", "run", "${workspaceFolder}\\app.py"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Attach to Streamlit",
+            "type": "python",
+            "request": "attach",
+            "connect": {
+                "host": "localhost",
+                "port": 5678
+            },
+            "justMyCode": false
+        }
+    ]
+}
