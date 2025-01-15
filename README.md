@@ -14,6 +14,12 @@ Uma aplicação que realiza pesquisas judiciais no DJE e TJSP, extrai dados rele
 
 <br>
 
+# Demonstração
+
+Confira um vídeo de demonstração ![aqui!](https://drive.google.com/file/d/1ztWX_99eDKGW6OARfFIrAq5on8qP6PpZ/view?usp=drive_link)
+
+<br>
+
 ## Instalação
 
 > Se já estiver instalado na máquina, pode pular essa etapa.
@@ -59,11 +65,6 @@ pip install -r requirements.txt
 
 <br>
 
-# TJSP - Etapas 
-
-> Video de demonstração em Desenvolvimento
-
-<br>
 
 ## Resultados 
 
