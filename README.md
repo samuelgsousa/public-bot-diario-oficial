@@ -16,7 +16,7 @@ Uma aplicação que realiza pesquisas judiciais no DJE e TJSP, extrai dados rele
 
 # Demonstração
 
-Confira um vídeo de demonstração ![aqui!](https://drive.google.com/file/d/1ztWX_99eDKGW6OARfFIrAq5on8qP6PpZ/view?usp=drive_link)
+Confira um vídeo de demonstração [aqui!](https://drive.google.com/file/d/1ztWX_99eDKGW6OARfFIrAq5on8qP6PpZ/view?usp=drive_link)
 
 <br>
 
